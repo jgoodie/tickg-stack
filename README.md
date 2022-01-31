@@ -1,1 +1,1 @@
-# tickg-stack
+# Telegraf, Influxdb, Chronograf, Kapacitor, Grafana
